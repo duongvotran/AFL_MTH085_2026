@@ -1,0 +1,1011 @@
+█████ FOLD: 0/0 ████████████████████████████████████████████████████████████████
+════╡ 0 ╞═╡ SEED: 0/4 ╞═════════════════════════════════════════════════════════
+────┤ 0 ├─┤ 0 ├─┤ ITER: 0/0 ├───────────────────────────────────────────────────
+┌X: "Bridget Jones' Baby was bloody hilarious 😅 #BridgetJonesBaby"
+└y: 'joy optimism'
+┌X: '#PeopleLikeMeBecause they see the happy exterior, not the hopelessness I sometimes feel inside. #depression  #anxietyprobz'
+└y: 'fear sadness'
+┌X: "This night is sparkling, don't you let it go! I'm wonderstruck, blushing all the way home..' #ValerieBot"
+└y: 'joy love optimism surprise'
+┌X: '@MatherFamilys @SDICenter @CAllstadt \\n\\ndo REDNECKS intellectually intimidate you and force you to be their dancing clown?'
+└y: 'anger disgust pessimism'
+┌X: '@DepressedStride &gt; huff louder'
+└y: 'pessimism sadness'
+┌X: "@rosalilium I'm wearing all black tomorrow to mourn. 😭💔"
+└y: 'disgust pessimism sadness'
+┌X: '@LeafyIsHere will showing off biceps scare you?'
+└y: 'fear'
+┌X: "Glasgow Girls' is a real tonic @stratfordeast:an eclectic range of songs, barbed humour and eloquence in its fiery rage against injustice"
+└y: 'anger anticipation disgust fear joy optimism'
+┌X: "I feel like an appendix. I don't have a purpose.  #depressed  #alone #lonely #broken  #cry #hurt #crying #life"
+└y: 'pessimism sadness'
+┌X: '#GADOT please put a left turn signal at Williams and Ivan Allen Jr Blvd. This is absolutely ridiculous #ATLtraffic '
+└y: 'anger disgust'
+┌X: 'If I could turn anxiety off--I would. #nooneunderstands '
+└y: 'fear sadness'
+┌X: "But 'for me not to worry, they'll get a glass guy over and bill us for it'"
+└y: 'disgust optimism'
+┌X: 'Watch this amazing live.ly broadcast by @__.mila.__ #lively #musically'
+└y: 'joy love optimism'
+┌X: 'This pretentious dick in Night Gallery just fucking, used a towel to dry off his sink'
+└y: 'anger disgust'
+┌X: "@LBC - I can't read this article but headline indicates a horror story. Lock sick chavs up and throw away the key."
+└y: 'anger fear'
+┌X: 'Lol Adam the Bull with his fake outrage...'
+└y: 'anger disgust joy'
+┌X: '# ISIS REFERENCES SCRUBBED?  Federal complaint against suspect in NYC, NJ bombings appears to omit terror names in bloody journ...  #news'
+└y: 'anger anticipation disgust'
+┌X: 'The neighbor dancing in the Clayton Homes commercial is me. #hilarious'
+└y: 'joy surprise'
+┌X: "@russbully Ended up paying 75p for half a tube of smarties. Don't even get the pleasure of popping the plastic lid off either #outrage"
+└y: 'anger disgust'
+┌X: "Glad I didn't watch smackdown because I can't see my men @JasonJordanJJ @WWEGable lose. #sohurt #revenge"
+└y: 'anger'
+┌X: '@selbsie yapyap! once upon a time, I was an avid fanfiction patron during my K-Pop heyday.'
+└y: 'joy sadness'
+┌X: "2 days until #GoPackGo and 23 days until #GoGipeGo..... I'm so excited! "
+└y: 'joy optimism'
+┌X: "@HutchinsonDave I don't know whether to despair or agitate for a cull."
+└y: 'anger disgust fear sadness'
+┌X: '@Rovers what highlights ? I would imagine you will only have 30 seconds of highlights for the whole season so far #shocking. #venkysout'
+└y: 'fear surprise'
+┌X: 'okay i AHVE to start mob psycho 100 today. if i dont im going to fight myself'
+└y: 'anger anticipation optimism'
+┌X: '@RiveraJose39 happy birthday to my seed‼️‼️‼️ #renewtherivalry #imyourdaddy #cantbeatme  #tater'
+└y: 'joy love'
+┌X: 'Lmboo , using my nephew for meme #hilarious'
+└y: 'joy love'
+┌X: 'Way too cool to die young, way too young to die sober.. #tunechi'
+└y: 'anticipation disgust joy optimism sadness'
+┌X: "Take heart amid the deepening gloom that your dog is finally getting enough cheese. ― National Lampoon, 'Deteriorada'"
+└y: 'anger disgust optimism'
+┌X: 'I blame the whole season on Natalie! The season would have been so different had she not turned her back on her alliance! #pissed #bitter'
+└y: 'anger disgust'
+┌X: '@TheBarmyArmy looking forward to div 2 next year @AndyBarmyArmy? #revenge #leictershireaway #therey'
+└y: 'anger anticipation optimism'
+┌X: 'im 16 if you want to see my dick snap/kik me at hiya2247 😘 #kik #kikme #snapchat  #snapme #horny #porn #naked #young'
+└y: 'joy'
+┌X: '@wenniss are you cheering for team Sweden today or team North American?'
+└y: 'anticipation trust'
+┌X: 'I like the commercial where @kohara19, on a chocolate milk bender, steals a soccer ball from some guys and refuses to give it back. #bully'
+└y: 'anticipation joy surprise'
+┌X: 'Just joined #pottermore and was sorted into HUFFLEPUFF 😡😡😡 '
+└y: 'anger disgust'
+┌X: 'Studying the phases of oscillation. How jovial. 😐🔫'
+└y: 'anticipation disgust pessimism'
+┌X: "I swear if @devincameron23 blocks me I'm going to hit her back "
+└y: 'anger'
+┌X: 'Late night #thoughts. Feeling .'
+└y: ''
+┌X: "I wonder what American city will be next to protest about police shootings. Who's next? Smh. #whenwillitstop #angry #howmanymoretimes"
+└y: 'anger disgust'
+┌X: "You head north and arrive at a breezy cave. It smells sweet. You glance at your watch; you're running 15 minutes late."
+└y: 'joy'
+┌X: 'cluck cluck cluck, wolf wolf wolf , chirp chirp chirp is all I ever hear.'
+└y: 'anticipation'
+┌X: '@YahooCare data stolen in 2014 and only now do you tell us .'
+└y: 'anger disgust fear sadness'
+┌X: "@thenthapple Haha I like the optimism cause I'm the same, but it doesn't make this situation any less mind boggling."
+└y: 'disgust joy optimism'
+┌X: '@CrystiCaro yeah agree - I think it was a family member and they covered up #sad'
+└y: 'sadness'
+┌X: '“The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy...”\\nZephaniah 3:17'
+└y: 'joy optimism'
+┌X: '@MaxiNutrition order 321073 parcel 15502922895987. #awful #customercare by @DPD_UK tried to view calling card online. black image #noshow'
+└y: 'anger disgust sadness'
+┌X: "@realDonaldTrump negative campaign of doom and gloom don't win elections"
+└y: 'anger disgust pessimism'
+┌X: "@joeyskawaii i know i don't know u, but physiatrists are seriously the number one best thing for people with anxiety."
+└y: 'fear optimism'
+┌X: '@edquinn63 how can you even forget to pick ur fave child up from school #offended'
+└y: 'anger disgust sadness'
+┌X: 'This provocation sets off a curiosity. An entity is feeding fuel to the fire. speaking quatrains. Hmmm America needs to be vigilant now'
+└y: 'anger anticipation'
+┌X: 'I #love to #laugh and share #laughter as way to share #joy'
+└y: 'joy love optimism'
+┌X: "@HillaryClinton It's your party that has divided this nation.  You inflame the minority population as well as pander.  You are a disgrace."
+└y: 'anger disgust'
+┌X: 'Watch this amazing live.ly broadcast by @its.finfin #lively #musically'
+└y: 'joy'
+┌X: '@Zen1dfabflake You are all our angelic comrades! #flutter'
+└y: 'joy optimism'
+┌X: 'How many tweets is that now? How fast was I going? God, I love being #sober and #intelligent.'
+└y: 'joy optimism trust'
+┌X: "@ChronAVT ummm, the blog says 'with Simon Stehr faking 7th'...I'll expect an investigation forthwith. This is an "
+└y: 'anger anticipation'
+┌X: '@ddcl2519 @ABC not nice.  Wishing harm on another human being is deplorable.  Your comments show how human, and humane you are. '
+└y: 'anger disgust sadness'
+┌X: '@1xfly you sir are hilarious'
+└y: 'joy'
+┌X: "You can make excuses or you can make time. You can't make both. #time #regret  #LifeCoach"
+└y: 'disgust optimism sadness'
+┌X: 'Having a nail half hanging off is absolutely fucking grim, even with my acrylic holding it on 😷😷'
+└y: 'anger disgust'
+┌X: '@JuliaHB1 Bloody right '
+└y: 'anger'
+┌X: "@keithboykin unfortunately it won't end there... followers of whichever candidate isn't elected will throw tantrums. No winning this elec"
+└y: 'anger sadness'
+┌X: '630am meeting Olympic House #10golds24 .  #relentless #neverquit #believe #dreambig #TeamTTO #going4gold'
+└y: 'anticipation optimism'
+┌X: 'Am I the only person who dislikes fall? #FirstDayofFall #leaves #thingsdie #depressing #cold #noflipflops 👎🏾👎🏽👎🏻🍂🍁'
+└y: 'anger disgust sadness'
+┌X: "Swear to God don't get a smart meter from your power company, 8 months of daft bills, 6 visits from British Gas  #stressed"
+└y: 'anger disgust fear pessimism sadness'
+┌X: "Going to get myself a copy of @StephenKing's CUJO for an upcoming project that I can't talk about just yet.  #amwriting"
+└y: 'anticipation joy optimism'
+┌X: "And she got all angry telling me 'but what would be doing a 40 year old guy looking for a girl like you' and I felt "
+└y: 'anger disgust pessimism'
+┌X: 'That last minute was like watching a horror show #GBBO 😥'
+└y: 'disgust fear sadness'
+┌X: "@reikimuse @MHChat I am beyond the sadness point. Have done it inside out. I live with CPTSD and BPD  I can't always do the pity party"
+└y: 'optimism pessimism sadness'
+┌X: 'the day they disclosed they caught her googling cholroform we were fucking aghast'
+└y: 'anger surprise'
+┌X: '@LucasDrakeH @realDonaldTrump @GenFlynn @RandPaul @trump2016fan terrorist attack and terrorism already exists in the history of islam.'
+└y: 'anger disgust fear'
+┌X: '@sjgreer24 @cciedotnyc @Buttockus @ChrisCJackson @Bayonethics Have you read the OT and Pauline Epistles? They have countless horrid rules'
+└y: 'anticipation disgust fear sadness'
+┌X: "After soul searching, I'd like to announce that I've chosen @chrissyteigen &amp; @nicolerichie to be my adopted sisters due to their hilarity"
+└y: 'joy love optimism'
+┌X: "After spending £450 @Debenhams I was offered a £5 voucher. I asked if I could spend it at weekend? Was told 'no valid today only' #unhappy"
+└y: 'anger disgust sadness'
+┌X: 'Before revenge you feel good after revenge you feel worse 💯 @HillaryClinton'
+└y: 'anger disgust optimism'
+┌X: 'Bout ta get my @dontbreathe on up in here! @WarrenTheaters  #icantholdmybreaththatlong'
+└y: 'anticipation joy'
+┌X: 'Loving @Speechless_ABC so far. Just hilarious and @driverminnie is wonderful. #hilarious #Bravo 👏🏻👏🏻'
+└y: 'joy optimism'
+┌X: "— to reveal a broad smile. \\n\\n'Yeah, it's nice.' \\n\\nPursing his lips, he stifled his joyous expression in order —\\n\\n[@AVIATAUBE]."
+└y: 'joy'
+┌X: "@SizweM01 and it's kinda depressing hey!!! 😑"
+└y: 'pessimism sadness'
+┌X: "#RIP30 Heaven is rejoicing because they've gained an angel, the Keifer family are in my prayers 💙🙏"
+└y: 'joy love optimism sadness'
+┌X: 'How on earth can the projection of all that is good and happy and true in my soul be a poisonous fucking snake? #patronus #adder #offended'
+└y: 'anger disgust'
+┌X: "US lady in foyer - 'Am I not #afraid to be tweeting in #Moscow?' Fortified by d good #Lord &amp; #JD I reply 'I fear no Russian. 'cept my #wife😅"
+└y: 'fear joy'
+┌X: "He's mixing it up pretty well..using that slider pretty affective so far #thebabybombers #yankees "
+└y: ''
+┌X: 'I forgot about this nice area down here with the fiery hearths'
+└y: 'anticipation joy optimism'
+┌X: 'Life is too short so dont shoot it in with worries sadness and grief.'
+└y: 'optimism'
+┌X: '@PixelMonsterYT @TeamGE0 @IZEDEPTIC @ztumtum @CrimtideTV @LtGrandslam @Slinkercorn Bahahahaha Dean looks hilarious and damn I got fat'
+└y: 'joy optimism surprise'
+┌X: 'Just found out tonight my son will not be doing practical work counting towards his GCSE exam. OK then! I thought STEM was all the rage??'
+└y: 'anger pessimism'
+┌X: "one month til someone's bday and i think it's time to flaunt that I got them something pretty awesome "
+└y: 'joy love optimism'
+┌X: '@eileen_davidson on RHOBH, you just do not want to assume an affair while you were married so you criticize @LisaVanderpump! #awful'
+└y: 'anger disgust'
+┌X: "Looking nice forward to playing at Paper Dress Vintage in Hackney this evening - get there early as I'll be on at 8pm! @paperdressed #blues"
+└y: 'anticipation joy optimism'
+┌X: "@MHChat I think sadness is felt very strongly physically and mentally.  It feels like it takes over and it's hard to focus at work #MHChat"
+└y: 'pessimism sadness'
+┌X: 'Not setting an alarm to nap &gt;&gt;'
+└y: ''
+┌X: '@Dolla_DeLotta They wanna bully the Inhuman.'
+└y: 'anger disgust'
+┌X: 'One more step in long work #visa process is over. Relief. Onto next step. #expat #restless'
+└y: 'anticipation fear joy optimism'
+┌X: "@Mysteri759 @Ren102e906 @slb42jcb @swoozyqyah Well, I'm too old, and too stubborn about facts &amp; history to be discouraged."
+└y: 'anger pessimism sadness'
+┌X: 'today afghanistan tell us where the terrorism is planned whaaaooo#UNGA'
+└y: 'anger fear'
+┌X: 'Inquiries into alleged abuses by UK troops in Afghanistan and Iraq and data suggesting a buoyant post-Brexit economy makes the front pages.'
+└y: 'anger anticipation disgust'
+┌X: "That house on #GrandDesigns isn't in a forest it's in a wibbly wobbly pine plantation"
+└y: 'sadness'
+┌X: 'On the other side of fear lies freedom! - JB Glossinger #quote'
+└y: 'fear joy optimism trust'
+┌X: 'This all resent #India #Pakistan problem is save #NawazSharif\\n@ImranKhanPTI\\n@PTIofficial'
+└y: ''
+════╡ 0 ╞═╡ SEED: 1/4 ╞═════════════════════════════════════════════════════════
+────┤ 0 ├─┤ 1 ├─┤ ITER: 0/0 ├───────────────────────────────────────────────────
+┌X: "Bridget Jones' Baby was bloody hilarious 😅 #BridgetJonesBaby"
+└y: 'joy optimism'
+┌X: 'That old lady is cray cray #scared #BellaIsSoCute #awe #Empire'
+└y: 'fear'
+┌X: 'I was not made for this world. #empath #unhappy'
+└y: 'sadness'
+┌X: "Every day I think my #house 🏡 is #burning 🔥 but it's always just my neighbor burning their #toast! 😷😡🍞"
+└y: 'fear joy'
+┌X: '@samsteinhp stop the presses, @realDonaldTrump said/proposed something racist. #shocking'
+└y: 'anger disgust surprise'
+┌X: 'Nawaz Sharif is getting more funnier than @kapilsharmak9 day by day.  #challenge #kashmir #baloch'
+└y: 'joy love optimism'
+┌X: '@TheDTSB @trubble1127 @nflnetwork I agree but our offense was ass after the second half td score on the first drive'
+└y: 'anger disgust sadness'
+┌X: "Petition for non-Maghrebi PoC to stop buying 'couscous' from white grocery stores and boiling it. That is not couscous, that is trash."
+└y: 'anger disgust'
+┌X: "@FieldYates @MatthewBerryTMR @Stephania_ESPN @MikeClayNFL @FrankCaliendo goddamn...the 'celebrity' draft at the end was classic. "
+└y: 'anticipation joy optimism'
+┌X: "@BrandedByCas I was like that when I started college. It was horrific but it probably will get better. Don't give up yet"
+└y: 'optimism'
+┌X: "I'm girly in the sense that I always have lashes &amp; nails done but tomboy in the sense that black is my only color &amp; refuse the ruffle life"
+└y: 'joy'
+┌X: "Migraine hangover all day. Stood up to do dishes and now I'm exhausted again. GAD, depression &amp; chronic pain #anxiety #depression #pain"
+└y: 'disgust fear sadness'
+┌X: '@DevilsAdvcate @ManUtd absolutely boring.M a big Manchester United fan,  nd its really disappointing to see them play in ths dull boring way'
+└y: 'anger disgust sadness'
+┌X: '@BreezyWeekes hey breezy, you wanna give me some of that coffee you posted on your snap?? please'
+└y: 'anticipation joy'
+┌X: '@maddie_truex just wait till they hit you with the 5am fire alarm in the middle of winter. Those are sweet'
+└y: 'anger anticipation disgust optimism sadness'
+┌X: '#Partners are willing to #walk alongside you without being #intimidated by you. #WhoIsIT #Part2 #RelationShift #CLifeMacon'
+└y: 'joy love optimism'
+┌X: "@SadiqKhan #terrorism shouldn't be a way of life in the united etates and wasn't until #islam brought it here! #IslamExposed #islambacon"
+└y: 'anger disgust fear'
+┌X: 'Happy birthday @iRidhiDogra keep smiling always.Wishing you a wonderful year ahead mam'
+└y: 'joy love optimism'
+┌X: "What's the worst affliction that you or someone you know ever convinced yourself you had?"
+└y: 'pessimism sadness'
+┌X: 'Chart music is pretty much ALL the same.. '
+└y: 'joy trust'
+┌X: "Favourite quote of the year so far is by @ameliameech 'I swore at a parsnip' 😂 #raging"
+└y: 'anger disgust joy'
+┌X: '@MHChat Childood experiences can  leave you with permanent deep sadness as adult  it can underlie everything #MHChat'
+└y: 'sadness'
+┌X: "@atlabps He doesn't intimidate me, it just annoys me to have him by my side. The further he is, the better I feel"
+└y: 'anger disgust sadness'
+┌X: "Now that the whole clown rage has scared me shitless, I'm gonna go cry in my room"
+└y: 'anger fear sadness'
+┌X: 'My husband found out there are other rabid hockey fans like me as we waited in line 4 of the 6 window stickers were for SJ NHL/AHL hockey.'
+└y: 'anticipation surprise trust'
+┌X: "This is the scariest American Horror Story out of all of them... I'm gonna have to watch in the daytime. #frightened"
+└y: 'fear sadness'
+┌X: "@KillerInASuit - now getting banned but will still lurk in corners and underneath the bed and sofa, much to Eyepatch's delight. Why is she -"
+└y: 'anger disgust sadness'
+┌X: 'Recording some more #FNAF and had to FaceTime my mum to let her know I was okay after I let out a high pitched scream 😂 #horror #suchagirl'
+└y: 'fear joy'
+┌X: "Thank you @RachelPlatten for teaching me how to live again. It's been so long since &amp; this ride is about to be exhilarating. I just know it"
+└y: 'joy optimism'
+┌X: '@Malkarii_ Korgoth of Barbaria for brutality, King Julian for hilarity, and Ariel... Because hot...'
+└y: 'disgust'
+┌X: "If I was a ghost I'd haunt people by giving them cramps in both of their legs when they do cardio 😈😈😈 #Mwahaha"
+└y: 'fear joy'
+┌X: "@GRIPLIKEAVICE_ I wouldn't mind if it didn't you know, threaten my job when I disagree. Puts a damper on things."
+└y: 'anger disgust sadness'
+┌X: 'Is this the Krusty Krab?\\n\\nNo this is crippling depression'
+└y: 'sadness'
+┌X: "I wish I could fast forward 3 months from now, I'll know then where I'm at with my girl, my classes, and basketball. Rn I have pure #anxiety"
+└y: 'fear'
+┌X: "But i'll be a pity. 🐑 "
+└y: 'disgust pessimism sadness'
+┌X: 'i am le depressed i l hate myself xDDdD #sad #depress #loner #emo'
+└y: 'sadness'
+┌X: '@PAULROVlA the first resulted in me angrily sobbing and ranting about finnick in the cinema'
+└y: 'anger disgust sadness'
+┌X: "Watching @melissamccarthy in #Spy she's one of Favorite actresses! Last night I was watching her #theboss #hilarious I just want to meet her"
+└y: 'joy love optimism'
+┌X: 'So much news about Pakistan, Afghanistan, etc. We need more cheery news about Frybread Stands!!! Everyone in media just so grim.'
+└y: 'anger disgust joy sadness'
+┌X: "the thing with Twitter is i only remember to tweet when i'm bored or alone and then it comes across like i have a really dull and sad life.👽"
+└y: 'pessimism sadness'
+┌X: "@AmyMek this is so absurd I could laugh right now (if I also didn't feel like crying for the future of our country). #despair #wakeupcall"
+└y: 'anger disgust pessimism sadness'
+┌X: '(whisper) I cannot frown.'
+└y: 'joy optimism sadness'
+┌X: '@jessespector @nasboat old rich white religious guy supports republicans. Not shocking at all.'
+└y: 'disgust'
+┌X: "The outrage over Kessel's tweet by butthurt USA players is hilarious."
+└y: 'anger joy optimism'
+┌X: '@bassekraah. @sunilddesai @jyoti1013 @Archnahr . A2: #irritation and isolation #lifenabler'
+└y: 'anger disgust sadness'
+┌X: 'Another day Another flight 🙈  I swear my last ever @easyjet flight!!!! You take the LOVE out of flying #easyjet  #alwaysdelayed'
+└y: 'anger disgust'
+┌X: "I'm honored to take on such a role in their joyous day. Hopefully I don't fuck it up"
+└y: 'anticipation fear joy optimism'
+┌X: '@metalAndTheGeek @astoldbyfANGIRL SAME! I always say it was the best time of my life. I closed my store down and it was so depressing'
+└y: 'sadness'
+┌X: "@bijayjanand\\nIt's not just a treat for viewers to watch u as janak, it's simply a treat for our soul, mind, thoughts. #hearty respect 🙏🙏"
+└y: 'anticipation joy love optimism'
+┌X: '1Pet 4:7  But the end of all things is at hand: be ye therefore #sober, and #watch unto prayer'
+└y: 'optimism sadness'
+┌X: "@kingcharles9th i Lowkey forgot you had twitter and if you don't follow me back im gonna be #offended"
+└y: 'anger disgust sadness'
+┌X: "I can never find the exact #emoji that I'm after at the exact moment that I need it #nuclear #missiles.\\n\\n#IndianArmy "
+└y: 'anger disgust sadness'
+┌X: "@luckiiCHARM_ Luckii, I'm changing in so many ways bc of Him!! It's a scary but joyful feeling, making me so strong."
+└y: 'fear joy'
+┌X: 'Just reached 10k followers - WOW - thanks blues #mcfc #ctid'
+└y: 'anticipation joy love surprise'
+┌X: '@WinchesterGank If only. Lol I just wish once he understood the crazy of his rabid fans &amp; addressed it.'
+└y: 'anger anticipation disgust joy'
+┌X: '@dc_mma @ChampionsFight think shes afraid to fight Holly. One can only imagine what goes through her head when she thinks of Cyborg '
+└y: 'fear'
+┌X: "@CNNnewsroom @BrookeBCNN What can't you grasp? Besides yr cognitive dissonance, raging away. Each. Incident. Re: LEO-shooting = SEPARATE."
+└y: 'anger disgust'
+┌X: "@Gibberman10 @ScottHoward42 any of y'all remember when MLB tried a futuristic jersey those were all #terrible"
+└y: 'disgust'
+┌X: 'Look at me. Made it through the day without a meltdown. #anxiety'
+└y: 'fear joy optimism'
+┌X: '@danrafaelespn no Tyson fury beat the man who been at top for years Danny Garcia should be above Bradley pacquaio frampton'
+└y: 'anger joy optimism trust'
+┌X: 'What an actual nightmare'
+└y: 'disgust fear pessimism'
+┌X: "Feeling like I've had the worst night of sleep ever - not great before the #London to #Brighton #cycle ride for @DMTFYP 🚴100k #apprehension?"
+└y: 'anger disgust fear pessimism sadness'
+┌X: "@TalesofanAlfa @David_Milloy \\nI like your thinking...but sadly no - that's the shed 😢"
+└y: 'sadness'
+┌X: '#Azerbaijan #Baku Azerbaijan to prevent another Armenian provocation in Russia'
+└y: 'anger'
+┌X: '@hyattd335 #Grateful for #novel #award #promo #RT - #Blessings DeWayne Hyatt #Hippie who loves to grind on the #blues #Florida'
+└y: 'joy love optimism'
+┌X: '@raylewis name change Uncle Remus Lewis #foh #theydontlikeyoueither #lost #unwoke'
+└y: 'disgust pessimism sadness'
+┌X: '@LPDonovan this is why I think his pre prepped debate answers have the potential for hilarity'
+└y: 'joy optimism'
+┌X: "#Charlotte's #young &amp; #restless; I applaud ur fire bt always b respectful of authority, police, elders, parents. Violence, not the way 🙏🏽✌🏽️"
+└y: 'anticipation disgust fear'
+┌X: 'I lost my blinders .... '
+└y: 'sadness'
+┌X: '@TimewarpArcade @tenpencearcade Do you really have to pedal like a nutter to get anywhere? I remember it being more sedate.'
+└y: 'anticipation sadness'
+┌X: '.@Travelanswerman: When U ride on a pile of salt life is extra sweet! Always salty always savory! #surfing #aloha #smiling …'
+└y: 'joy optimism'
+┌X: "You ever just find that the people around you really irritate you sometimes? That's me right now 😒"
+└y: 'anger disgust'
+┌X: "@GeordieTommy_ @Xbox High school or not, it's still shocking. Just because you love Xbox. Good luck tomorrow! 💪"
+└y: 'fear joy optimism surprise'
+┌X: "@smendler (1) Watch out for memes &amp; statements designed to make you feel outrage, but that don't give you anything to *do* about situation"
+└y: 'anger disgust'
+┌X: 'Getting ready to open the tastings at Whisky Shop Dufftown Autumn festival!  #murraymcdavid #whisky #drams'
+└y: 'anticipation joy optimism'
+┌X: 'Chalk dance notation entree manchester inasmuch as corinthian products that discourage drag branding: ARwuEVfqv'
+└y: 'sadness'
+┌X: 'This weather got me fucked up. Like you either be sunny and hot or gloomy and cold. No in between.'
+└y: 'anger disgust sadness'
+┌X: '@EASPORTSFIFA EA sports technical support team really suprised me 😊 SUPRISED ME AT HOW SHIT THEY WERE #awful'
+└y: 'anger disgust pessimism sadness surprise'
+┌X: 'Zero help from @ups customer service. Just pushing the buck back and forth and promising callbacks that don’t happen. #anger #loathing'
+└y: 'anger disgust'
+┌X: "I get so angry at people that don't know that you don't have a stop sign on Francis and you do at Foster #road #rage"
+└y: 'anger disgust'
+┌X: 'Delete this shit Josh just screenshotted my snap me'
+└y: 'anger disgust sadness'
+┌X: "Awe produces gratitude, gratitude instills joy, &amp; the harvest of joy is contentment.' \\n\\n–@PaulTripp #awe 😭😭😭"
+└y: 'joy optimism'
+┌X: '“The essential Saltes of Animals may be\\nArkham’s large outfit from any effects he\\nI rejoice that you continue in ye'
+└y: 'joy optimism'
+┌X: 'Recording some more #FNAF and had to FaceTime my mum to let her know I was okay after I let out a high pitched scream 😂  #suchagirl'
+└y: 'joy love'
+┌X: '@KseniaSolo hi little late to lost girl but think you awesome from South Afrikaans:-)'
+└y: 'joy love optimism'
+┌X: "It's always over.. until I'm no longer sober... then it feels like I wana start over #UL"
+└y: 'disgust optimism sadness'
+┌X: 'Our soldiers in war zones are held to a higher level of rules of engagement than our police officers. '
+└y: 'sadness trust'
+┌X: 'Of cheerfulness, or a good temper - the more it is spent, the more of it remains.'
+└y: 'joy optimism'
+┌X: "Here's a tip for everyone: Stop being offended. End.  #quit #youredumb #liveyourownlife"
+└y: 'anger disgust optimism'
+┌X: "Pussies - In the dark, they're all the same"
+└y: 'disgust'
+┌X: 'Fellaini has been playing ahead of this guy...just let that sink in'
+└y: 'anticipation sadness'
+┌X: '@rumanaa_r @DaiIyRoasts what did I do to offend you? 🙄😭😂'
+└y: 'fear sadness surprise'
+┌X: 'talk about a mood pickup i went from depressed to elated so fast'
+└y: 'joy optimism surprise'
+┌X: 'Good luck to all Fury-Haney players playing this weekend at the Future Stars showcase in Frisco, Tx. #KGB #G-town '
+└y: 'anticipation joy love optimism'
+┌X: "It's easy to #fall #asleep in class, but hard to in bed. #True  #whileyouweresleeping #insomnia #TeamFollowBack #RockTheReTweet"
+└y: 'disgust pessimism'
+┌X: 'The radio just told me Lady GaGa is going country, which is like if the Beatles decided to do opera singing for their final albums #awful'
+└y: 'anger disgust fear'
+┌X: '@Adrian_Specs Far from safe and staid I found it horribly OTT at times while everyone seemed to be trying just a little too hard. Not for me'
+└y: 'anger fear'
+┌X: "You're so cute @katienolan #truelove #hilarious @GarbageTime #beautiful &amp; #graceful never heard explicits spoken with such elegance. #Mingo"
+└y: 'joy love optimism'
+┌X: 'At work yesterday some old cunt couple told me their coffees were cold and wanted a refund so i put my finger in it front of them angrily'
+└y: 'anger disgust sadness'
+┌X: 'You have a #problem? Yes! Can you do #something about it? No! Than why '
+└y: 'anger disgust'
+════╡ 0 ╞═╡ SEED: 2/4 ╞═════════════════════════════════════════════════════════
+────┤ 0 ├─┤ 2 ├─┤ ITER: 0/0 ├───────────────────────────────────────────────────
+┌X: "I saved him after ordering him to risk his life. I didn't panic but stayed calm and rescued him."
+└y: 'optimism'
+┌X: '@KatherineArabis It’s taken for granted, while the misogyny in the air is treated as normal — and any angry response to it as pathological.'
+└y: 'anger disgust'
+┌X: "I'm so bored and fat and full and ridiculously overweight and rolls galore "
+└y: 'disgust pessimism sadness'
+┌X: "@STLouis_RamsFan their whole team is limited when they're on the field. "
+└y: 'joy optimism'
+┌X: 'will brawndo cure my depression? @MikeJudge #Idiocracytoday'
+└y: 'sadness'
+┌X: '@samsteinhp stop the presses, @realDonaldTrump said/proposed something racist. #shocking'
+└y: 'anger disgust surprise'
+┌X: "Theyve substituted the hood for a badge and gun.' Public opinion is indictment of Charlotte police. #dark #sadtimes #america #race"
+└y: 'anger disgust pessimism sadness'
+┌X: '@niceoneWern @Alotta_Pain the gleesome threesome'
+└y: 'joy'
+┌X: 'Cmon blues we are 2 home games away from another CC semi - I love those Wembley away days. Being on anyone at home please! ⚽'
+└y: 'anticipation joy love optimism'
+┌X: 'Watching It Follows.  This is a super freaky movie.  #horror #scary'
+└y: 'fear surprise'
+┌X: "#travelfail #virgin #virginaus and #etihad #nightmare ... And now we're also delayed. #obvs 🙄😠"
+└y: 'anger disgust fear'
+┌X: 'Metal keeps you young and spry and keeps your hair luxurious.\\n\\nYES\\n\\nSHUT UP AND LISTEN TO ME'
+└y: 'anger disgust joy optimism'
+┌X: 'India wants to #shake #hands with # pakistan ..... but as usual pakistan #cheat with every #indian \\n\\n..........shameless pakistan'
+└y: 'anger disgust fear pessimism'
+┌X: 'So grim being up at 6'
+└y: 'anger disgust pessimism sadness'
+┌X: "@BeeTuppy We're sorry to hear about the issues and how this is making you feel. We don't like to hear our customers being unhappy :-( We"
+└y: 'sadness'
+┌X: "@NJDDanin123 I personally liked #relentless …didn't get #OurHouse #OneJersey #werealldevilsinside \\nDoes nothing till a puck drops #NJDevils"
+└y: 'sadness'
+┌X: 'Asian Tiger #Mosquitoes are so relentless. More aggressive than the kind I dealt w/as a kid.'
+└y: 'anger'
+┌X: 'Goddamn headache. #anger'
+└y: 'anger disgust'
+┌X: '@DatelineNBC this is a sight, sound &amp; smell to behold in person--still gives me the creeps to think about. #shudder'
+└y: 'disgust fear'
+┌X: '@howcaniapply @radioscarboro Much to my delight!'
+└y: 'joy optimism'
+┌X: '@Blewberry02CP Content updates provoke that income.'
+└y: 'joy'
+┌X: 'People too weak to follow their own dreams will always find a way to discourage yours.'
+└y: 'disgust sadness'
+┌X: '@seangrandillo I beg you, never stop smiling. You deserve to be happy and to know all the beautiful things that life can offers.'
+└y: 'joy optimism'
+┌X: "I'm way too busy and tired all the time to worry about my past and the things I should be regretting (but I never am)."
+└y: 'anticipation joy optimism sadness'
+┌X: '@WelshGasDoc @PlaidCymru supporter @reesmarshall239 #prejudice against #disabled people #disabledlivesmatter  #bbcnews #skynews'
+└y: 'anticipation disgust sadness'
+┌X: 'Do you know how much it hurts to see you best friend sad?'
+└y: 'pessimism sadness'
+┌X: 'That was nearly aesthetically pleasing enough lol I need to do this on PS and not my phone'
+└y: 'joy optimism'
+┌X: '@escotony sorry to hear about your experience, however, please do not hesitate to contact us via live chat or email at askdysonUS@dyson.com'
+└y: 'anticipation optimism sadness'
+┌X: "I'm mad at the injustice, so I'm going to smash my neighbours windows'.  Makes perfect sense. #CharlotteProtest "
+└y: 'anger'
+┌X: '@reecetop10 Bk to 1 up top pack midfield Stifle any flair we possess kill any entertainers #dull #reshuffle #predictable #slow #average'
+└y: 'anger disgust pessimism sadness'
+┌X: 'Riding at night has got to be one of the most exhilarating, refreshing things I have ever done.'
+└y: 'joy optimism'
+┌X: 'Lmboo , using my nephew for meme #hilarious'
+└y: 'joy love'
+┌X: '@ChrissyCostanza and have social anxiety. There is many awkward things wrong with me. 😄'
+└y: 'fear joy pessimism'
+┌X: 'Some moving clips on youtube tonight of the vigil held at Tulsa Metropolitan Baptist church for #TerenceCruther #justice  #sadness'
+└y: 'sadness'
+┌X: 'Thanks for making our Mass with Fr. Vallely respectful, meaningful, and joyful @ACSSCrusader @AssumptionHCDSB ! #SeeWithEyesOfMercy'
+└y: 'joy love optimism'
+┌X: "@brawl2099 See your primary care doctor. They can prescribe meds and refer you to a psychiatrist for eval. Don't mess with depression."
+└y: 'fear sadness'
+┌X: 'I just want to let everyone out there know you are wonderful people! #beyourself   #late-night #compliment #behappy'
+└y: 'joy love optimism'
+┌X: 'I asked Jared to marry me and he said no. '
+└y: 'sadness'
+┌X: '@carlybigelow13 first you take the room now you wanna beat me up #bully'
+└y: 'anger disgust'
+┌X: '.@Tolumanda love it! so true. As @Deedeey_ taught me, fear can be an illusion. #coaching #fear #courage'
+└y: 'fear joy optimism trust'
+┌X: "@xBFDR yeah I'm sure it will, it's just so depressing having to talk to my parents over the phone instead of talking to them downstairs"
+└y: 'fear sadness'
+┌X: '@NRA @HillaryClinton  She never said anything about taking away guns but I would now bc of your stupid scare tactics for gun sales.Sickening'
+└y: 'anger disgust'
+┌X: '@EAMaddenNFL @EASPORTS I played a game where John Elway was sacked 3x and fumbled all 3x. Is this the same John elway I know of??? '
+└y: 'disgust'
+┌X: 'I am more comfortable here at the Dove House than I was in my own home for 24 years. This is HOME &amp; I am very grateful. #dove #indy #sober'
+└y: 'joy optimism'
+┌X: 'i cant live anymore my roblox got termianted :((((((((((((((((((((((((  #killme #lol #robloxgamer'
+└y: 'pessimism sadness'
+┌X: 'Band members wanted. Contact me #NewcastleGateshead #Sunderland #musicians #musicbusiness #musicislife #music #musically #band #blues #folk'
+└y: 'anticipation joy optimism'
+┌X: '@jonfavs Don King is an insult to the intelligence of the Black Community.  What are these people thinking?'
+└y: 'anger disgust'
+┌X: "Just saw lil homie @NICKMERCS rage on cam.  Weren't roids a thing in the late 90's or has it come back? I'm lost..."
+└y: 'anger'
+┌X: '@JeffersonLake speaking of ex cobblers, saw Ricky Holmes at Charlton last week.. tracking back &amp; defending... I dread seeing Gorre on ball..'
+└y: 'anticipation fear'
+┌X: 'Life long fear of havin a shit and a spider crawls up ya bum'
+└y: 'disgust fear sadness'
+┌X: '@PunishedSnek in the final analysis, the non-white global majority will not fret over the ethnic origin of our corpses.'
+└y: ''
+┌X: "tbh amy i don't know why you need to sort your life out, it's looks like your having a great time' thanks tiff 😂💜"
+└y: 'joy optimism'
+┌X: 'Standard Candice starting the show with a pout #startasyoumeantogoon #GBBO'
+└y: 'joy'
+┌X: "We can't stop racism overnight. Nor gun violence. Nor terrorism. But we CAN literally stop Trump overnight. So, like, let's? #ImWithHer"
+└y: 'anger anticipation disgust optimism'
+┌X: '@naynay_whores im pretty sure cause ever since saturday ive just been super sad lol'
+└y: 'disgust pessimism sadness'
+┌X: '@eNCA what they should be doing is directing their anger to the thieves in government...#corruption #FeesMustFall'
+└y: 'anger disgust sadness'
+┌X: "Speech was bold coz it wasn't written by PM NS bt the expression/tone was his own dull n dim"
+└y: ''
+┌X: 'my wasp sting is so itchy'
+└y: 'anger disgust sadness'
+┌X: '@JessiMcCree Gabriel would eventually start frowning, gaining conciousness. Which was apparently really painful by how tears formed in the--'
+└y: 'sadness'
+┌X: "@dish_answers I've contacted @dish @dish_answers  #service #whathappenedtocustomerservice"
+└y: 'anger disgust'
+┌X: "Because you offended by the lies of Alexandria Goddard doesn't mean that I'm Deric's friend or anything else. Purely a fishin expedition."
+└y: 'anger disgust'
+┌X: "You can tell the camp isn't happy purely through Bojan and Muni.\\n\\nBoth normally fab guys, yet completely dejected. Something isn't right.."
+└y: 'anger disgust sadness'
+┌X: 'The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; \\nZephaniah 3:17 KJV'
+└y: 'joy optimism trust'
+┌X: "what's the nicest way to tell someone cheerfully whistling outside my apartment door that I will end them should they continue to whistle"
+└y: 'anger disgust'
+┌X: "@yukkikuma_cos cheer up, luv. your face is alot prettier when you're not frowning. &lt;3"
+└y: 'joy love optimism'
+┌X: "I am about to be a coward and I feel terrible. But I can't even face this 😭"
+└y: 'disgust fear sadness'
+┌X: '@JustinRow10 madden is the reason why controllers are snapped'
+└y: 'disgust'
+┌X: "My oldest cat pisses me off. She's always been weary of Kennen (senile kinda), but recently shes been sweet. Until she attacked and bit him."
+└y: 'anger fear'
+┌X: "@tonygoldmark Yeah I won't mourn it but I'm glad I rode it the last time I visited."
+└y: 'joy optimism'
+┌X: "lost my 244 day snapchat streak i'm done"
+└y: 'anger disgust sadness'
+┌X: 'Southend players always haunt Man U'
+└y: 'anger disgust'
+┌X: "It's better to be wetter than it is to be dry'- Thanks for the tip Val. First #GBBO hearty guffaw of the week"
+└y: 'joy optimism'
+┌X: "3:45am and off to the hospital! Elouise's waters have gone! #panic #Labour #LittleSister #superexcited"
+└y: 'fear'
+┌X: 'I wanna kill you and destroy you. I want you died and I want Flint back. #emo #scene #anger #fuck #die #hatered'
+└y: 'anger disgust'
+┌X: '@CBSBigBrother never bring back Meech and Bridgette. Crying because someone looks at you? Ugh, and Bridgette. '
+└y: 'anger disgust sadness'
+┌X: 'and i will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers'
+└y: 'anger disgust'
+┌X: "@AFCGraMaChroi oh, sorry if I've discouraged you 😂"
+└y: 'sadness'
+┌X: "can't believe Achilles killed me! #angry"
+└y: 'anger disgust sadness'
+┌X: "@BartholomewD It's -terrible-! We're going to the local fish/chip place in Kirribilli #terrible"
+└y: 'anger disgust fear sadness'
+┌X: '@BillSwindell @DePauwU @dick_nixon I was having breakfast when I seen this?! I blew my cereal in the #sink!!'
+└y: 'anger disgust'
+┌X: "What the fuck is he even doing ? He should be off that's fucking horrific !"
+└y: 'anger disgust'
+┌X: "We floated like butterflies. Now you sting like bees!'"
+└y: 'disgust joy'
+┌X: "tfw you're en-route to your future :) !! @HUCJIR i'm coming for ya! #openhouse #futurecantor #exhilarating #NYCletsgo"
+└y: 'anticipation joy optimism trust'
+┌X: "I get so angry at people that don't know that you don't have a stop sign on Francis and you do at Foster #road #rage"
+└y: 'anger disgust'
+┌X: 'Another raging storm brought on by my own emotions sorry everyone. enjoy the thunder'
+└y: 'anger'
+┌X: '@scottlocker220 Thank you for that, the notification came in the nick of time to cheer me up - have to re-tweet'
+└y: 'joy love optimism'
+┌X: 'When a guy comes on the train that smells like a mixture of a damp dog, old sweat and sewage works!!!! #gross  #getoffthetrain #smelly'
+└y: 'anger disgust joy'
+┌X: 'I\x92ve learnt that a #smile and good #morning goes a long way, and saying #thankyou goes even further.  #quote #retweet #inspire'
+└y: 'joy love optimism'
+┌X: "I'm about to block everyone everywhere posting about the storm. I think everyone is aware of the damn rain and what not so quit. #damn #rage"
+└y: 'anger disgust'
+┌X: '@JohnWildy71 something, too confused to type an entire word 😜 See, I can laugh again. My hour of sadness has almost passed'
+└y: 'joy optimism'
+┌X: '#Trump is #afraid of the big, bad #Hillary. #election #PresidentialDebate #PresidentialElection2016 #orangehitler #skip #hide #coward '
+└y: 'disgust fear pessimism'
+┌X: 'The most important characteristic of leadership is the lack of #fear.  #activism #equity #revolution'
+└y: 'joy optimism'
+┌X: '@GreensACT @ShaneRattenbury @carolinelec what about #publictransport to &amp; from #CanberraAirport. Most cities have. Mr Barr very #coy on.'
+└y: ''
+┌X: '@JackAndAHat butter up the walls, nightmare'
+└y: 'fear sadness'
+┌X: "@Policy_Exchange A plus point, she won't have to queue for the loos. Any more plus points? Nope, can't think of any  #sexism"
+└y: 'anger disgust'
+┌X: 'Unixware skydrive-cokie hearty exactment blame online: HEpHXhO'
+└y: 'anticipation disgust'
+┌X: "Elinor,' she laughed so little known, all over every body at the brilliant cheerfulness of sweetmeats and a fashion."
+└y: 'joy optimism'
+┌X: 'Penny dreadful 3 temporada'
+└y: 'fear sadness'
+┌X: "World is facing #terrorism. Where #Terrorist's school exist? Who are terrorist's teacher &amp; father. Which is terrorist's motherland?"
+└y: 'anger fear pessimism'
+┌X: "@RobertWesley3 I'm #mad that my brother is #sad ! Feel better bub!"
+└y: 'anger pessimism sadness'
+════╡ 0 ╞═╡ SEED: 3/4 ╞═════════════════════════════════════════════════════════
+────┤ 0 ├─┤ 3 ├─┤ ITER: 0/0 ├───────────────────────────────────────────────────
+┌X: "Living with #depression doesn't mean you must be defeated by it\\nevery day's a new day and yesterday doesn't decide what today looks like :-)"
+└y: 'optimism sadness'
+┌X: "@SkyUK what a joke!! Cut our internet off early 'by mistake' and then don't reinstate it when we no longer need an engineer 😡 "
+└y: 'anger disgust sadness'
+┌X: '@ATrumping hahahahahaha!! Oh gosh. You are hilarious. A black man trying to keep racism alive. Get out of here man.'
+└y: 'anger disgust joy optimism'
+┌X: '@DepressedStride &gt; huff louder'
+└y: 'pessimism sadness'
+┌X: 'Lady gaga fucking followed i have been waiting for this day for ages it fucking happened im shaking thank you so much @ladygaga ❤️'
+└y: 'joy love'
+┌X: 'The bounty hunter things a bit lively'
+└y: 'joy'
+┌X: '@rabpeel snap, seems to be a problem here'
+└y: 'anger anticipation'
+┌X: 'Been a while since I been sober. This life can be so hard'
+└y: 'optimism sadness'
+┌X: 'As I remember and reflect on Reginald Denny on a night much like this (like #Charlotte) I think to myself, the gun lobby must be rejoicing.'
+└y: 'joy'
+┌X: '@OC_Transpo some weeks there are no problems but this week is unbelievable -- are you guys even running regular 12 buses?  #solate'
+└y: 'anger disgust sadness'
+┌X: '@itsyourgirl_Z happy birthday :) have a blessed day love from Toronto :) #bday '
+└y: 'joy love optimism'
+┌X: '@ErinAndrews I ❤️you on DWTS You make my night every show! 😘 '
+└y: 'joy love'
+┌X: 'Defination of a best friends..!!! \\n\\na person who opens his mouth just to #insult yu..!! :D :D :D'
+└y: 'anger disgust joy'
+┌X: '@mywrldsbl I can be your wolf if you want. Hihi~ #breezy'
+└y: 'joy love optimism'
+┌X: 'pray for my boy huff'
+└y: ''
+┌X: 'The ghost of Stefano reflects on the grim indignity of being murdered by corrupt cops in faux love. #days'
+└y: 'anger disgust'
+┌X: 'Happy 69th @StephenKing! May u keep haunting us for many years. #horror #writing'
+└y: 'fear joy love'
+┌X: '@savageimiike one of my favorite songs brother, real talk. '
+└y: 'joy optimism'
+┌X: "Favourite quote of the year so far is by @ameliameech 'I swore at a parsnip' 😂 #raging"
+└y: 'anger disgust joy'
+┌X: '@SeanUnfiltered Texans are scared of this bunch! #intimidated'
+└y: 'fear'
+┌X: '@LoriAlan1 Seriously. Digging those eyebrows. '
+└y: 'joy optimism'
+┌X: 'Shriekfest is lining up VOLUNTEERS! Oct 6-9, only serious inquiries please!  shriekfest@aol.com  see free films! '
+└y: 'anticipation joy optimism'
+┌X: 'Jimmy Carr makes me want to cry and cry *shiver* '
+└y: 'fear sadness'
+┌X: "I heard Movie Bob was furious about the Skittles analogy. He was upset that there wasn't actually any Skittles."
+└y: 'anger disgust'
+┌X: 'Check out @VovimPrgel - From Scotland #gamer #YouTuber #vlogger #designer #animator #artist. TY for following The Wake  #horrorfilm'
+└y: 'fear'
+┌X: "@Masonicmoron i always hesitate to update.  At least it's no the horrors iPhone users endure every few months 😅😅"
+└y: 'anticipation disgust fear'
+┌X: "@jbiggy13 @ToneCapone111 ya and the d was what I was most confident about..... our offense is as good as it's been in 20 years...our d sucks"
+└y: 'anger disgust'
+┌X: 'When will the weeks full of Mondays end?? '
+└y: 'disgust sadness'
+┌X: "@MariamVeiszadeh #depressing it's so freaking close !"
+└y: 'anger sadness'
+┌X: '@RyhenMessedUp goodbye despair'
+└y: 'sadness'
+┌X: 'Obama admin rejects Texas plan to have refugees vetted for terrorism so Texas pulls of of fed refugee resettlement program. Aiding .'
+└y: 'fear optimism'
+┌X: "We're very busy #coding a whole network manager for #unity3d based on #steamworks networking. #gamedev #indiedev #3amDeadTime  #game"
+└y: 'joy'
+┌X: 'Drinkin me some red wine &amp; listening to some fred mcdowell playing the #blues . He did not play no #rocknroll. Fantastic noise  #justsaying'
+└y: 'joy optimism'
+┌X: 'Is this the Krusty Krab?\\n\\nNo this is crippling depression'
+└y: 'sadness'
+┌X: "@yeldarbkered You've got quite the cheery young Souls fan. :)"
+└y: 'joy love optimism'
+┌X: '@holly_lolly7 I just have serious respect for any man that can pull off a bun better than I can, like maybe they can teach me their ways.'
+└y: 'sadness trust'
+┌X: '*Still waits for Yang. Guess she really needs her sleep or something. Kittens feeling kinda dejected right now.* #Offline'
+└y: 'pessimism sadness'
+┌X: 'Niggas never changed...even as a kid and a 29 year old, in his interviews, seems jovial and happy after death of his sister...he did it'
+└y: 'anger disgust'
+┌X: 'I sulk too much for my own good.'
+└y: 'anger joy pessimism sadness'
+┌X: '...X, X... Do... you... hear... me? Darn... Your... optimism led... ...to your own... demise... ... You... should... li...live #ZeroBOT'
+└y: 'anger disgust sadness'
+┌X: 'I take a strange delight from seeing mark Hughes struggle'
+└y: 'joy optimism'
+┌X: "This is the scariest American Horror Story out of all of them... I'm gonna have to watch in the daytime. "
+└y: 'anticipation fear surprise'
+┌X: 'A cheerful heart is an unending banquet.-\xa0Proverbs (Mishle) 15:16'
+└y: 'joy love optimism'
+┌X: "[My teeth were sunk down into the vein of the poor woman who had 'accidentally' had a small problem with her engine, just outside of --"
+└y: 'disgust sadness'
+┌X: '@BrumSciComm in a danish.  What horror, what depths. #gbbo'
+└y: 'anger fear sadness'
+┌X: '@NinjaWorrier @ali_zimmer @m_pattison How long ago was that? (I shudder to think.)'
+└y: 'disgust fear'
+┌X: "@bijayjanand\\nIt's not just a treat for viewers to watch u as janak, it's simply a treat for our soul, mind, thoughts. #hearty respect 🙏🙏"
+└y: 'anticipation joy love optimism'
+┌X: "@AdoreDelano ill be there... with VIP TICKETS! Can't wait to meet you. Never met a famous person i admire before! "
+└y: 'joy optimism'
+┌X: '@faithstrust @TheeCurrentYear imagine being this stupid for trying to chirp because of some racist prick.'
+└y: 'anger disgust'
+┌X: '@hotelplanner I stayed at a hotel who  packed picnic lunches to take on the road!! #BetterTogether @Redlizzy1 @NewfieChic @Ladybug_Vic'
+└y: 'joy'
+┌X: '@wahrbear @marinarchy @diam0ndsapph1re There is some hilarity in someone who is literally openly anti-science calling others anti-science.'
+└y: 'joy'
+┌X: '#WeirdWednesday OKAY! That jump-scared the #Poop out of me right there. Bad dog, BAD! Total code-brown in my favorite pants. #Damnit '
+└y: 'anger disgust fear pessimism'
+┌X: '@frecklybellamy the walking dead, mr robot, american horror story, merlin'
+└y: 'fear'
+┌X: "@chrislhayes It's hard for most folks to realize how deep the hatred is until you dive into the murky end of the pool. This guy is nuts."
+└y: 'anger disgust'
+┌X: '@_MrAminuddin @ejainews @_AlifH @AhmadFuadAdnan dont play with this master noob u want to win.. #serious'
+└y: ''
+┌X: "Don't ever grow weary doing good....Don't just see the headlines; look at the trend lines for hope.' @billclinton #CGI2016"
+└y: 'optimism'
+┌X: 'He: u r beautiful\\nShe:i hve a bf\\n\\nSame as \\n\\n#India :u guys r #terrorist\\n#Pak:we have #nuclear #missiles.\\n\\n#IndianArmy #terror'
+└y: 'fear'
+┌X: "I'm done with your piano, blues playing, smooth talking ass. On to the nexttt"
+└y: 'anger disgust pessimism'
+┌X: "Honestly today I just felt like maybe track isn't for me #sad"
+└y: 'disgust pessimism sadness'
+┌X: "lost my 244 day snapchat streak i'm done"
+└y: 'anger disgust sadness'
+┌X: 'Wrinkles should merely hide where frown have been.  - Mark Twain'
+└y: 'anticipation optimism trust'
+┌X: 'Why mfs so bitter'
+└y: 'anger disgust pessimism'
+┌X: '@StephaliciousD afternoon delight'
+└y: 'joy'
+┌X: "My friend just messaged me 'ugh I'm so hungry I can't wait for breakfast' #socialmedia #WineWednesday #hilarious #funny #laughing #happy"
+└y: 'joy optimism'
+┌X: 'That last #madden commercial 😆😆😆😆😆😆 #TNF'
+└y: 'anticipation joy optimism surprise'
+┌X: "So is texting a guy 'I'm ready for sex now' considered flirting?' #shocking"
+└y: 'anger anticipation disgust surprise'
+┌X: "@OkashoHime + returned her joyous focus to the pastel-haired girl. 'Wawa's okay, tooooo~!' She squealed before raising her eyebrows at the +"
+└y: 'joy'
+┌X: "Ghanaians don't need to wear black to mourn tho... They can just walk naked *dodges stones* Na joke na☹'"
+└y: 'anger disgust sadness'
+┌X: 'Termination rate is at 22.22% I gotta make some things shake'
+└y: 'anger disgust'
+┌X: '@megynkelly We should be ignoring these rioters like the current administration ignores #terrorism. This will obviously make it stop.'
+└y: 'anger disgust fear'
+┌X: "Zeph 3:17 'The Lord...is in your midst, a mighty one who will save; He will rejoice over you with gladness; He will quiet you by his love'"
+└y: 'joy love optimism'
+┌X: "@ccgdavidson I remember being awestruck looking around thinking, 'You could fit the entire population of our town in here ten times over.'"
+└y: 'anticipation disgust optimism surprise'
+┌X: 'Drop Snapchat names #bored  #swap #pics'
+└y: 'anticipation disgust sadness'
+┌X: "@Darren_Hammer amen, nothing personal mate, just tired of all of the complaining from our fans, it's Been a relentless tirade of misery"
+└y: 'anger disgust sadness'
+┌X: "@AllegedLowbrow It's 'Eye-for-Eye'. Indian Army never forgives, Never Forgets. They always take revenge, Pakistan breaks laws, I.A follows"
+└y: 'anger disgust optimism trust'
+┌X: 'My soul is weary of fighting the battles in this world. #BlackInAmerica #WeAreNotSafe'
+└y: 'anger disgust fear pessimism sadness'
+┌X: '@mark_slifer actually maybe we were supposed to die and my donation saved our lives?? '
+└y: 'pessimism sadness surprise'
+┌X: '@WhoIsThisCaleb you could leap to your feet dramatically, plant one foot on the seat of your chair, and let out that jaunty tune!'
+└y: 'anger anticipation disgust joy optimism'
+┌X: 'Never ever been this unhappy before in my life lmao'
+└y: 'pessimism sadness'
+┌X: "What's a Kali's kitten? [She asked, a frown curling on her fair skinned forehead as he showed her the scar] A cat did - (@ScarredTiger)"
+└y: ''
+┌X: "@bt_uk why does tracking show my equipment delivered, when it wasn't? Why is my service suddenly delayed? We've already 3 weeks. "
+└y: 'anger disgust sadness'
+┌X: '@indermethil True. We were rejoicing the fact that we signed a quality young CB but we need one more at least. @MarcBartra ? mebbe :P'
+└y: 'joy love'
+┌X: '#Pain is an aspect of #human evolution; the evolution of #consciousness. #attachments #desire #apathy #sentimentality #tears #fury #anger #O'
+└y: 'anger sadness'
+┌X: '@WalshFreedom sadly, that idiot completely overlooks the facts . He had a gun pointed at police. Are they that stupid?That should be ignored'
+└y: 'anger disgust sadness'
+┌X: 'Hey folks sorry if anything offensive got posted on here yesterday my account got hacked. All fixed now though. I hope :-/  #annoyed'
+└y: 'anger disgust fear sadness'
+┌X: "@MHChat I think sadness is felt very strongly physically and mentally.  It feels like it takes over and it's hard to focus at work #MHChat"
+└y: 'pessimism sadness'
+┌X: 'What a #lively #lovely #shower 😇 ..'
+└y: 'joy optimism trust'
+┌X: ".@SimonNRicketts if you don't know what a patronus is, I don't think we should have to tell you #shocking"
+└y: 'anger disgust fear surprise'
+┌X: "However the agent was inauthentic, my sister still loves me, &amp; I'm still alive. So I guess it wasn't that bad. #socialanxiety #anxiety"
+└y: 'fear joy love optimism'
+┌X: "#vinb I'm alot more interested in hearing bout differences between parties political ideologies. Parties murky origins r irrefutable #vinb"
+└y: ''
+┌X: '.@DIVAmagazine than straight people. Even the arse straight guys who think that means a threesome is fine.  '
+└y: 'anger disgust'
+┌X: 'Should of stayed in Dubai 😞'
+└y: 'anticipation disgust pessimism sadness'
+┌X: 'Watch this amazing live.ly broadcast by @flydudern #lively #musically'
+└y: 'joy optimism'
+┌X: 'Give rise to eternal home aico things immolation: succeed in mother country exhilaration: AKt'
+└y: 'joy'
+┌X: "i bet dat dog eating name brand cheerios. cant relate. i eat cheery O's"
+└y: ''
+┌X: "not only was that the worst @EGX that's I've attended but worth one of the worst cons I've been to in the last 5 years "
+└y: 'anger disgust'
+┌X: '@SiWheeler78 never a dull moment, hope you had a gd trip down'
+└y: 'joy optimism'
+┌X: '@Ginger_Naylor *Connie came back in* Hey you seem a bit more lively'
+└y: 'joy optimism'
+┌X: "@JasonBHampton it's Bowers. I went and drove it for a while this evening #horrible"
+└y: 'disgust fear pessimism sadness'
+┌X: "@ceIestialfoxx I don't even remember that part 😅 the movie wasn't terrible, it just wasn't very scary and I expected a better ending 🙄"
+└y: 'disgust fear joy'
+════╡ 0 ╞═╡ SEED: 4/4 ╞═════════════════════════════════════════════════════════
+────┤ 0 ├─┤ 4 ├─┤ ITER: 0/0 ├───────────────────────────────────────────────────
+┌X: '@NHLexpertpicks @usahockey USA was embarrassing to watch. When was the last time you guys won a game..? #horrible #joke'
+└y: 'anger disgust'
+┌X: "Living with #depression doesn't mean you must be defeated by it\\nevery day's a new day and yesterday doesn't decide what today looks like :-)"
+└y: 'optimism sadness'
+┌X: 'Nor hell a fury like a woman scorned -- William Congreve'
+└y: 'anger fear'
+┌X: '@Sophiejulia @CalebAtChipotle @calebpressleyxo relentless pipe thirst #sheltered'
+└y: ''
+┌X: "Woke by #nightmare @ 3AM, couldn't sleep any more, so took a #UseAllTheHotWaterShower. Now I have time to read."
+└y: 'fear sadness'
+┌X: "This girl was shaking her drink in the break room and it wasn't fully closed and yeah it's all over the place now including me😑😑😂"
+└y: 'anger disgust joy sadness'
+┌X: "Migraine hangover all day. Stood up to do dishes and now I'm exhausted again. GAD, depression &amp; chronic pain #anxiety #depression #pain"
+└y: 'disgust fear sadness'
+┌X: "Now it's time to remove CB from the team somehow. Screw it. Rip the Band-Aid off. It'll sting for a bit but everyone will get over it."
+└y: 'anger disgust'
+┌X: 'Omg I actually thought she was going to jump.  #SouthPark20 #southpark'
+└y: 'anticipation fear joy surprise'
+┌X: '@mywrldsbl I can be your wolf if you want. Hihi~ #breezy'
+└y: 'joy love optimism'
+┌X: 'This maybe a new start but it will always be align with the end. #start #forward'
+└y: 'anticipation joy optimism'
+┌X: 'Can we get a shot of Lingys face at 1/4 time ? Pretty sure it would be more red then his hair  #pretendinghesok #ruok #AFLCatsSwans'
+└y: 'anticipation sadness'
+┌X: '@SeanLTheWriter Agree 100%... B. Marshall another concern... would much rather he rested this game...'
+└y: 'fear'
+┌X: "..... wakes up and says 'have you tried changing her nappy?' 😡👊🏼 !!!!"
+└y: 'anger disgust optimism sadness'
+┌X: "don't #worry, earthlings\\ni'm not real..\\n..OR AM I?"
+└y: 'joy optimism'
+┌X: "Favourite quote of the year so far is by @ameliameech 'I swore at a parsnip' 😂 #raging"
+└y: 'anger disgust joy'
+┌X: "Still can't log into my fucking Snapchat#Snapchat #snap"
+└y: 'anger disgust sadness'
+┌X: '@Twitch how do I stop that horror movie themed commercial? Suddenly hearing screams is really not making me want to watch twitch. '
+└y: 'disgust fear'
+┌X: 'Your #smile is a messenger of your good will.'
+└y: 'joy optimism'
+┌X: 'That was nearly aesthetically pleasing enough lol I need to do this on PS and not my phone'
+└y: 'joy optimism'
+┌X: "@gypsydragoness wrinkling up. 'Well now, looks here like your name starts with the letter G, eh?' The man smiled up and gave a hearty +"
+└y: 'anticipation joy optimism'
+┌X: '@faye_catherine happy anger sad melancholy confusion #woodspurge'
+└y: 'anger disgust pessimism sadness'
+┌X: "@realDonaldTrump @KellyannePolls New campaign slogan idea...'I know you are but what am I?'  #Trump2016 #yourefired #deflect"
+└y: 'anger disgust'
+┌X: '@ShannonBeador we know the truth about her, the public is figuring it out. Her words mean nothing. #unhappy #mean #troubled #vile '
+└y: 'anger disgust sadness'
+┌X: 'matt and i just did a psychological study on provocation in abusive relationships.'
+└y: 'optimism'
+┌X: "@jbiggy13 @ToneCapone111 ya and the d was what I was most confident about..... our offense is as good as it's been in 20 years...our d sucks"
+└y: 'anger disgust'
+┌X: "bout to read this article 'Moving the Conversation Forward: Homosexuality &amp; Christianity' from someone in the foursquare church #nervous"
+└y: 'anticipation fear'
+┌X: "Forever angry that gh ruined Molly and morgan's bond/friendship "
+└y: 'anger joy'
+┌X: 'I wonder what would happen if I were a father. #weary'
+└y: 'anticipation fear pessimism sadness'
+┌X: "@KimPiggie @kristasaidthis oh every people can make tipo. It is terrible bullying them about that. It's trvial and very sad.😔"
+└y: 'anger disgust sadness'
+┌X: "I'm so over having anxiety"
+└y: 'fear'
+┌X: 'Ramos with his ground shaking headers..😏'
+└y: ''
+┌X: 'Heard of panic! At the disco? How about Kach-ing! at the ATM'
+└y: 'anticipation fear pessimism sadness'
+┌X: '@inthefade going back to blissful ignorance?! '
+└y: 'anger disgust'
+┌X: 'smh customers getting angry at me bc i aint got no marlboro lights in the gas hut. i called them in 2 hours ago, fuck you.'
+└y: 'anger disgust'
+┌X: "Life izn't about pleasing each others...😕\\n\\n #hell #with "
+└y: 'anger disgust sadness'
+┌X: 'While I was walking, a little boy in a red shirt(5/6 years of age) shouting from a distance of 3 meters, in a jovial manner saying...'
+└y: 'joy surprise'
+┌X: "@POCX100 Please don't sulk over your defeat. Come on. Head up!"
+└y: 'anticipation joy optimism'
+┌X: '15 minutes of yoga to your breakfast routine will change your day #preparation #sunriseyoga #bodyawareness #health #yoga  #stretch'
+└y: 'joy optimism'
+┌X: 'Isaiah 40:31\\nthose who trust in the Lord will find new strength.\\nThey will soar high on wings like eagles.\\nThey will run and not grow weary.'
+└y: 'joy optimism trust'
+┌X: '@casillasbreanna awe thanks girl 😊😊'
+└y: 'joy love'
+┌X: 'I have no #alarm preset #life will #wakemeup'
+└y: 'joy optimism'
+┌X: '@DarkLuneFantasy wallah my blood is boiling I need to take a nap ugh'
+└y: 'anger disgust'
+┌X: 'I look #horrible today and I just saw 6 people ik in the past 10 min :-)'
+└y: 'anger disgust'
+┌X: '@Taoist_Skeptic @jackaberlin @DrJillStein @politicususa Doubt U have anything to be afraid of as Trump has been vilifying minorities &amp; women'
+└y: 'anger disgust fear sadness trust'
+┌X: '@IrishTimesPol @IrishTimes Irish citizens boiling drinking water in 2016 leaves one foot firmly in the bog!'
+└y: 'anger joy sadness'
+┌X: '(whisper) I cannot frown.'
+└y: 'joy optimism sadness'
+┌X: '@MCHorseFayse @bockaguyjim @generalgoodsman @nevernotdavid so you were owned by losers on Twitter '
+└y: 'anger disgust'
+┌X: '@davidhiggerson Can understand fear factor but why support a company that wants to reduce your own to status of a needy satellite..'
+└y: ''
+┌X: '@judy_that Im honestly offended'
+└y: 'anger disgust sadness'
+┌X: '“Set a goal to achieve something that is so big, so exhilarating that it excites you and scares you at the same time.” \\n― Bob Proctor'
+└y: 'joy optimism'
+┌X: 'So I just opened This message Brooke sent me got me I am weak as the fuck 😩 she is a fucking bully for no reason 😂😂😂😂😭💀'
+└y: 'anger disgust'
+┌X: '@robert7019 @itzamadhouse @skyler12388\\r\\ralso celebrate THEIR belief that Jesus is alive in hell, boiling in a pot of shit (actual shit)'
+└y: 'anger disgust'
+┌X: '#picoftheday : How...why... Really... !!\\n #funny #picoftheday #lol #random #laugh #chair #of  #funnypics #virgin #cafe #i...'
+└y: 'joy optimism'
+┌X: '@hoytschile fury road!!'
+└y: 'anger disgust'
+┌X: 'When I was new, I hate the Judge Judy sponsorship style- but looking back it was the only thing that worked. #recovery #sober #cantconacon'
+└y: 'anger anticipation disgust pessimism surprise'
+┌X: 'But When it come to a serious situation, I be glad I gave it deep thought 💯'
+└y: 'joy optimism'
+┌X: "@Cardschatter now that the Bills have a new offense of Cordinator do you think it's more difficult for the @AZCardinals to  game plan?"
+└y: 'anticipation'
+┌X: "@DamnPatriot You're a POS for rejoicing in someone's death."
+└y: 'anger disgust'
+┌X: "@Deadspin @Rlblack1Rob My guess is he's just a convenient target for misplaced anger.  What they're really mad at is how they played."
+└y: 'anger'
+┌X: "@CScheiwiller can't stop smiling 😆😆😆"
+└y: 'joy love'
+┌X: "Having a blast playing games and hearing testimonies at Pastor Jeremy's house #fellowship #food  #praise #gospel #coffey1617"
+└y: 'joy optimism'
+┌X: 'In addition to fiction, wish me luck on my research paper this semester. 15-20 pages, oh boy. '
+└y: 'anticipation fear optimism trust'
+┌X: 'today has been terrible but tonight will end better because I get to see Malik ❤️'
+└y: 'anticipation disgust joy love optimism'
+┌X: "@debscov65 local solutions fine but not 864 providers negotiating with 32 LA's/IJB 's #scare resources"
+└y: 'anger disgust fear pessimism sadness'
+┌X: "@TMobileHelp my service is down in Cleveland, OH. What's going on? #unhappy"
+└y: 'anger disgust sadness'
+┌X: 'Every single problem we ever face can be solved with a nice blend patience and optimism'
+└y: 'joy optimism trust'
+┌X: 'A not very young man compiled info on a smiling baby then a mattress created new evil.'
+└y: 'anger anticipation joy'
+┌X: "Rec'd call 2day from Haitian church we started in Florida some 15yrs ago. Preparing to acquire their own bldg. Wanted me to know. "
+└y: 'joy optimism'
+┌X: 'Pinky is so funny n jovial, bt she got emotional n just brought me 2 tears. I felt so bad for her #Ishqbaaaz'
+└y: 'joy optimism sadness'
+┌X: '@Get_Quenched16 Attempts by Western degenerates 2 imply that DPRK stoops to levity will be met by devastating nuclear retaliation.'
+└y: 'anger disgust fear sadness'
+┌X: '@mypalalex but still your my favorite person in DF besides grim'
+└y: 'joy love optimism sadness trust'
+┌X: 'Alt-J - Hunger of the pine.'
+└y: ''
+┌X: "&amp; I'll actually shoot somebody if I have to not just draw down or expose it to somebody to scare them 😮#Charles"
+└y: 'anger disgust fear sadness'
+┌X: '#EpiPen: when public outrage occurs, expand #PAP Patient Assistance Progrm, coupons,rebates .@GOPoversight @OversightDems on #Mylan #Epipen'
+└y: 'anger disgust'
+┌X: "It's so breezy I love it 🌬️🍃💛"
+└y: 'joy love optimism'
+┌X: '#picoftheday : How...why... Really... !!\\n    #funny #picoftheday #lol #random #laugh #chair #of #despair #funnypics  #virgin #cafe #i...'
+└y: 'joy optimism'
+┌X: "@ChowdharyMahima Appreciate ur 'half truth.' Don't let ur good judgement swayed in the realm of propaganda. State doesn't sponsor terrorism."
+└y: 'anger fear'
+┌X: 'Life is too short so dont shoot it in with worries sadness and grief.'
+└y: 'optimism'
+┌X: "Bes! You don't just tell a true blooded hoopjunkie to switch a f*c@n' team that juz destroyed your own team. You juz don't! #insult"
+└y: 'anger disgust'
+┌X: "I'm a cheery ghost."
+└y: 'joy love'
+┌X: "Pro Tip: Go back to work when your kid reaches 20 mos old.  Stay home any longer, and you'll be absolutely miserable with the ."
+└y: 'anger disgust sadness'
+┌X: "By officialy adopting #BurhanWani, a #Hizbul terrorist, #Pakistan n #NawazSharif hv md a cardinal mistake 2day tht'll haunt fr years. #UNGA"
+└y: 'anger disgust fear'
+┌X: "Get to work and there's a fire drill. #fire #burning #outthere #inthedark"
+└y: ''
+┌X: "Dentist just said to me' I'm going to numb your front lip up so it'll feel as if you've got lips like Pete Burns!...... She was right "
+└y: 'anger disgust trust'
+┌X: "@tmz @HarveyLevinTMZ   Hell hath no fury like a women scorned.    It's the affair.  Not the parenting"
+└y: 'anger anticipation'
+┌X: '— Self-hatred gives rise to fury, fury to the desire for self-change.'
+└y: 'anger disgust optimism sadness'
+┌X: '@shod_jpg aye man she was fuming xo'
+└y: 'anger sadness'
+┌X: '@RoyEnglish roy as fiery'
+└y: 'anger anticipation disgust'
+┌X: '#terrorstatepak #pakistan is a #terror state'
+└y: 'fear'
+┌X: 'I can literally eat creamy pesto pasta topped with grilled chicken, sun dried tomatoes, asparagus and pine nuts every single day of my life'
+└y: 'joy love'
+┌X: '.@Travelanswerman: B assured there is plenty of salt 2 keep that #fire #burning brightly! Stay #happy N life by keeping plenty #salty… …'
+└y: 'anticipation joy optimism'
+┌X: 'Nice to see Balotelli back to his best, good player.. Just lost his way a bit!'
+└y: 'joy love'
+┌X: "@myaeggs I can't get a better look at her bc I'm too shy to make eye contact ;-;"
+└y: 'fear pessimism sadness'
+┌X: "@CNNPolitics I can't wait to hear what he had to say about the brilliant Dr. Hawking... it should be rich... In the poorest of taste! #bully"
+└y: 'anger anticipation disgust'
+┌X: "straight people are canoodling on the quad and I'm "
+└y: ''
+┌X: 'When a guy comes on the train that smells like a mixture of a damp dog, old sweat and sewage works!!!!#gross #horrid #getoffthetrain #smelly'
+└y: 'anger disgust'
+┌X: '@SiWheeler78 never a dull moment, hope you had a gd trip down'
+└y: 'joy optimism'
+┌X: 'my momma irritate me asking all these questions like gone 😤'
+└y: 'anger disgust'
+┌X: ".@Travelanswerman: The possibilities R endless Becca when U unplug from the 'Matrix!' Stay salty and #happy #surfing! #sunset #aloha …"
+└y: 'anticipation joy optimism'

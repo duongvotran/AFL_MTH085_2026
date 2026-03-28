@@ -1,0 +1,20 @@
+Fold 0/0 | Seed 0/4 | Iteration 0/0:
+Embedding Time: 0:00:00.000002
+Sampling Time: 0:00:00.019688
+Fine-Tuning Time: 0:15:23.211043
+Fold 0/0 | Seed 1/4 | Iteration 0/0:
+Embedding Time: 0:00:00.000004
+Sampling Time: 0:00:00.021146
+Fine-Tuning Time: 0:13:33.414253
+Fold 0/0 | Seed 2/4 | Iteration 0/0:
+Embedding Time: 0:00:00.000003
+Sampling Time: 0:00:00.019976
+Fine-Tuning Time: 0:28:23.025982
+Fold 0/0 | Seed 3/4 | Iteration 0/0:
+Embedding Time: 0:00:00.000004
+Sampling Time: 0:00:00.020779
+Fine-Tuning Time: 0:10:53.975063
+Fold 0/0 | Seed 4/4 | Iteration 0/0:
+Embedding Time: 0:00:00.000004
+Sampling Time: 0:00:00.021128
+Fine-Tuning Time: 0:18:39.345957

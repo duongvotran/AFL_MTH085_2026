@@ -1,0 +1,2 @@
+Experiment Name, Iter, ║, val main metric, |, seed0, seed1, seed2, seed3, seed4, ║, tst main metric, |, seed0, seed1, seed2, seed3, seed4, ║, earlystopping, epochs, best epoch 
+EMOTION FLANT5 REP 100, 0, ║, 0.7247, |, 0.7355, 0.737, 0.7055, 0.742, 0.7035, ║, 0.7259, |, 0.7355, 0.737, 0.7125, 0.734, 0.7105, ║, 20, 37.6, 17.6 

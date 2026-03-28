@@ -1,0 +1,2 @@
+Experiment Name, Iter, ║, val main metric, |, seed0, seed1, seed2, seed3, seed4, ║, tst main metric, |, seed0, seed1, seed2, seed3, seed4, ║, earlystopping, epochs, best epoch 
+MPQA P FLANT5 REP K50, 0, ║, 0.853606, |, 0.842386, 0.836153, 0.854853, 0.876224, 0.858415, ║, 0.848718, |, 0.843305, 0.819801, 0.838319, 0.876781, 0.865385, ║, 20, 51.0, 31.0 

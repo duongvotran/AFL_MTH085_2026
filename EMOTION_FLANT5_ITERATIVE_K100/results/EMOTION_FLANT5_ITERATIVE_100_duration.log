@@ -1,0 +1,200 @@
+Fold 0/0 | Seed 0/4 | Iteration 0/9:
+Embedding Time: 0:00:23.435124
+Sampling Time: 0:00:02.048651
+Fine-Tuning Time: 0:19:01.645106
+Fold 0/0 | Seed 0/4 | Iteration 1/9:
+Embedding Time: 0:00:28.024404
+Sampling Time: 0:00:00.880687
+Fine-Tuning Time: 0:10:17.743291
+Fold 0/0 | Seed 0/4 | Iteration 2/9:
+Embedding Time: 0:00:24.220179
+Sampling Time: 0:00:01.542863
+Fine-Tuning Time: 0:09:44.303437
+Fold 0/0 | Seed 0/4 | Iteration 3/9:
+Embedding Time: 0:00:22.962735
+Sampling Time: 0:00:01.664890
+Fine-Tuning Time: 0:17:06.488765
+Fold 0/0 | Seed 0/4 | Iteration 4/9:
+Embedding Time: 0:00:23.868556
+Sampling Time: 0:00:01.160029
+Fine-Tuning Time: 0:12:48.225827
+Fold 0/0 | Seed 0/4 | Iteration 5/9:
+Embedding Time: 0:00:24.312869
+Sampling Time: 0:00:01.576062
+Fine-Tuning Time: 0:18:20.607401
+Fold 0/0 | Seed 0/4 | Iteration 6/9:
+Embedding Time: 0:00:23.992601
+Sampling Time: 0:00:01.486569
+Fine-Tuning Time: 0:11:06.433129
+Fold 0/0 | Seed 0/4 | Iteration 7/9:
+Embedding Time: 0:00:23.746671
+Sampling Time: 0:00:01.044821
+Fine-Tuning Time: 0:16:11.102526
+Fold 0/0 | Seed 0/4 | Iteration 8/9:
+Embedding Time: 0:00:22.443979
+Sampling Time: 0:00:01.273494
+Fine-Tuning Time: 0:09:32.333098
+Fold 0/0 | Seed 0/4 | Iteration 9/9:
+Embedding Time: 0:00:22.540759
+Sampling Time: 0:00:00.953164
+Fine-Tuning Time: 0:11:35.420300
+Fold 0/0 | Seed 1/4 | Iteration 0/9:
+Embedding Time: 0:00:15.308507
+Sampling Time: 0:00:01.859328
+Fine-Tuning Time: 0:18:44.878427
+Fold 0/0 | Seed 1/4 | Iteration 1/9:
+Embedding Time: 0:00:28.256631
+Sampling Time: 0:00:00.740275
+Fine-Tuning Time: 0:17:20.338440
+Fold 0/0 | Seed 1/4 | Iteration 2/9:
+Embedding Time: 0:00:23.679643
+Sampling Time: 0:00:01.363539
+Fine-Tuning Time: 0:10:55.664401
+Fold 0/0 | Seed 1/4 | Iteration 3/9:
+Embedding Time: 0:00:22.976986
+Sampling Time: 0:00:01.557157
+Fine-Tuning Time: 0:12:30.017734
+Fold 0/0 | Seed 1/4 | Iteration 4/9:
+Embedding Time: 0:00:22.972844
+Sampling Time: 0:00:01.262393
+Fine-Tuning Time: 0:11:37.391823
+Fold 0/0 | Seed 1/4 | Iteration 5/9:
+Embedding Time: 0:00:22.907571
+Sampling Time: 0:00:01.835415
+Fine-Tuning Time: 0:09:39.644103
+Fold 0/0 | Seed 1/4 | Iteration 6/9:
+Embedding Time: 0:00:22.618953
+Sampling Time: 0:00:01.320801
+Fine-Tuning Time: 0:13:27.077735
+Fold 0/0 | Seed 1/4 | Iteration 7/9:
+Embedding Time: 0:00:22.584384
+Sampling Time: 0:00:01.730837
+Fine-Tuning Time: 0:13:53.483545
+Fold 0/0 | Seed 1/4 | Iteration 8/9:
+Embedding Time: 0:00:22.919656
+Sampling Time: 0:00:01.152529
+Fine-Tuning Time: 0:23:34.865473
+Fold 0/0 | Seed 1/4 | Iteration 9/9:
+Embedding Time: 0:00:22.980324
+Sampling Time: 0:00:01.175891
+Fine-Tuning Time: 0:14:03.584281
+Fold 0/0 | Seed 2/4 | Iteration 0/9:
+Embedding Time: 0:00:15.711516
+Sampling Time: 0:00:01.892984
+Fine-Tuning Time: 0:18:01.704168
+Fold 0/0 | Seed 2/4 | Iteration 1/9:
+Embedding Time: 0:00:26.627623
+Sampling Time: 0:00:00.867604
+Fine-Tuning Time: 0:15:55.545860
+Fold 0/0 | Seed 2/4 | Iteration 2/9:
+Embedding Time: 0:00:22.685427
+Sampling Time: 0:00:01.168756
+Fine-Tuning Time: 0:10:37.843413
+Fold 0/0 | Seed 2/4 | Iteration 3/9:
+Embedding Time: 0:00:22.454972
+Sampling Time: 0:00:01.205656
+Fine-Tuning Time: 0:09:55.104251
+Fold 0/0 | Seed 2/4 | Iteration 4/9:
+Embedding Time: 0:00:22.259564
+Sampling Time: 0:00:01.070219
+Fine-Tuning Time: 0:09:59.344845
+Fold 0/0 | Seed 2/4 | Iteration 5/9:
+Embedding Time: 0:00:22.307324
+Sampling Time: 0:00:01.455408
+Fine-Tuning Time: 0:08:29.458762
+Fold 0/0 | Seed 2/4 | Iteration 6/9:
+Embedding Time: 0:00:22.133984
+Sampling Time: 0:00:01.132132
+Fine-Tuning Time: 0:09:22.973794
+Fold 0/0 | Seed 2/4 | Iteration 7/9:
+Embedding Time: 0:00:22.148829
+Sampling Time: 0:00:01.297673
+Fine-Tuning Time: 0:09:09.427939
+Fold 0/0 | Seed 2/4 | Iteration 8/9:
+Embedding Time: 0:00:22.193967
+Sampling Time: 0:00:01.103238
+Fine-Tuning Time: 0:09:18.500909
+Fold 0/0 | Seed 2/4 | Iteration 9/9:
+Embedding Time: 0:00:22.024387
+Sampling Time: 0:00:01.365647
+Fine-Tuning Time: 0:08:49.912471
+Fold 0/0 | Seed 3/4 | Iteration 0/9:
+Embedding Time: 0:00:15.817685
+Sampling Time: 0:00:01.800811
+Fine-Tuning Time: 0:15:45.177812
+Fold 0/0 | Seed 3/4 | Iteration 1/9:
+Embedding Time: 0:00:28.589275
+Sampling Time: 0:00:01.197369
+Fine-Tuning Time: 0:17:24.578189
+Fold 0/0 | Seed 3/4 | Iteration 2/9:
+Embedding Time: 0:00:23.108004
+Sampling Time: 0:00:02.100089
+Fine-Tuning Time: 0:10:16.005839
+Fold 0/0 | Seed 3/4 | Iteration 3/9:
+Embedding Time: 0:00:23.104652
+Sampling Time: 0:00:01.375580
+Fine-Tuning Time: 0:10:17.192070
+Fold 0/0 | Seed 3/4 | Iteration 4/9:
+Embedding Time: 0:00:22.258783
+Sampling Time: 0:00:01.228207
+Fine-Tuning Time: 0:17:37.149647
+Fold 0/0 | Seed 3/4 | Iteration 5/9:
+Embedding Time: 0:00:22.755901
+Sampling Time: 0:00:01.349827
+Fine-Tuning Time: 0:12:01.331185
+Fold 0/0 | Seed 3/4 | Iteration 6/9:
+Embedding Time: 0:00:22.241647
+Sampling Time: 0:00:01.385302
+Fine-Tuning Time: 0:17:52.015494
+Fold 0/0 | Seed 3/4 | Iteration 7/9:
+Embedding Time: 0:00:22.137120
+Sampling Time: 0:00:01.154756
+Fine-Tuning Time: 0:09:29.159631
+Fold 0/0 | Seed 3/4 | Iteration 8/9:
+Embedding Time: 0:00:22.111046
+Sampling Time: 0:00:01.089510
+Fine-Tuning Time: 0:09:47.305427
+Fold 0/0 | Seed 3/4 | Iteration 9/9:
+Embedding Time: 0:00:22.130566
+Sampling Time: 0:00:01.136093
+Fine-Tuning Time: 0:10:09.566582
+Fold 0/0 | Seed 4/4 | Iteration 0/9:
+Embedding Time: 0:00:17.081174
+Sampling Time: 0:00:01.863381
+Fine-Tuning Time: 0:22:06.772611
+Fold 0/0 | Seed 4/4 | Iteration 1/9:
+Embedding Time: 0:00:26.259214
+Sampling Time: 0:00:01.062494
+Fine-Tuning Time: 0:10:49.516089
+Fold 0/0 | Seed 4/4 | Iteration 2/9:
+Embedding Time: 0:00:24.620652
+Sampling Time: 0:00:01.624904
+Fine-Tuning Time: 0:13:06.904439
+Fold 0/0 | Seed 4/4 | Iteration 3/9:
+Embedding Time: 0:00:22.717943
+Sampling Time: 0:00:01.533410
+Fine-Tuning Time: 0:14:48.860395
+Fold 0/0 | Seed 4/4 | Iteration 4/9:
+Embedding Time: 0:00:22.286947
+Sampling Time: 0:00:01.147623
+Fine-Tuning Time: 0:15:22.959391
+Fold 0/0 | Seed 4/4 | Iteration 5/9:
+Embedding Time: 0:00:23.212193
+Sampling Time: 0:00:01.785204
+Fine-Tuning Time: 0:11:27.657217
+Fold 0/0 | Seed 4/4 | Iteration 6/9:
+Embedding Time: 0:00:22.567184
+Sampling Time: 0:00:01.048329
+Fine-Tuning Time: 0:11:10.476034
+Fold 0/0 | Seed 4/4 | Iteration 7/9:
+Embedding Time: 0:00:22.543050
+Sampling Time: 0:00:01.028282
+Fine-Tuning Time: 0:18:56.857602
+Fold 0/0 | Seed 4/4 | Iteration 8/9:
+Embedding Time: 0:00:22.279531
+Sampling Time: 0:00:01.592405
+Fine-Tuning Time: 0:20:36.156042
+Fold 0/0 | Seed 4/4 | Iteration 9/9:
+Embedding Time: 0:00:22.223052
+Sampling Time: 0:00:01.417828
+Fine-Tuning Time: 0:09:56.526940
